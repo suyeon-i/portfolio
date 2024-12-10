@@ -20,27 +20,27 @@ $(function(){
 		{
 			title: "<span>COS</span><span>Renewal</span>",
 			subject: "<dt>web design</dt><dd><span>Figma Prototype</span><span>Adobe Photoshop</span></dd>",
-			link: "https://www.behance.net/gallery/213000029/COS-"
+			link: "https://www.behance.net/gallery/214400209/COS-"
 		},
 		{
 			title: "<span>BBIA</span><span>Renewal</span>",
 			subject: "<dt>web design</dt><dd><span>Figma Prototype</span><span>Adobe Photoshop</span></dd>",
-			link: "https://www.behance.net/gallery/213001375/BBIA-"
+			link: "https://www.behance.net/gallery/214400539/BBIA-"
 		},
 		{
 			title: "<span>VERTE</span><span>Renewal</span>",
 			subject: "<dt>web design</dt><dd><span>Figma Prototype</span><span>Adobe Photoshop</span></dd>",
-			link: "https://www.behance.net/gallery/213001721/_"
+			link: "https://www.behance.net/gallery/214400703/VERTE-"
 		},
 		{
 			title: "<span>Re_L Renewal</span><span>Renewal</span>",
 			subject: "<dt>web design</dt><dd><span>Figma Prototype</span><span>Adobe Photoshop</span></dd>",
-			link: "https://www.behance.net/gallery/213011925/_"
+			link: "https://www.behance.net/gallery/214400821/Re_L-"
 		},
 		{
 			title: "<span>Marie Claire</span><span>Renewal</span>",
 			subject: "<dt>web design</dt><dd><span>Figma Prototype</span><span>Adobe Photoshop</span></dd>",
-			link: "https://www.behance.net/gallery/213365117/_"
+			link: "https://www.behance.net/gallery/214400897/Maire-Claire-"
 		}
 	];
 
